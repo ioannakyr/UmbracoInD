@@ -11,8 +11,11 @@ You need to find a place to host it yourself, and handling deployments and upgra
 **1. Create Document type**
 
 A document type consist of properties (data fields / attributes) 
-Complex document types can organize properties in groups and tabs 
+
+Complex document types can organize properties in groups and tabs
+
 You can add validation to your document type (mandatory etc.) 
+
 Set permissions for the document type (allow to create content, allow child node, allow different languages, versioning etc.) 
 
 **2. Create Content** 
